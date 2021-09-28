@@ -1,0 +1,33 @@
+body{
+  margin:0;
+  padding:0;
+}
+
+#wrap {
+  width:70%;
+  margin: 0 auto;
+}
+
+article {
+  background-color: lightblue;
+  overflow:auto;
+  border:
+}
+
+figure {
+  background-color:black;
+  width: 25%;
+  text-align: center;
+  padding: 10px 10px 5px 10px;
+  border: 1px solid white;
+  float: left;
+}
+
+figure img {
+  width: 100%;
+}
+
+figcaption {
+  color: white;
+  font-family: Arial, sans-serif;
+}
