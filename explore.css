@@ -4,7 +4,7 @@ html, body {
 	height: 100%;
 	margin: 0;
 	padding: 0;
-	background: #000 url("parks/bg.jpg") no-repeat center top;
+	background: #000 url("bg.jpg") no-repeat center top;
 	font-family:"Segoe", "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 }
 #wrap {
